@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Redux-tool-kit.**
 
-- 👨‍💻 All of my projects are available at [atharvapandharikar.netlify.com](atharvapandharikar.netlify.com)
+- 👨‍💻 All of my projects are available at [atharvaapandharikar.netlify.com](atharvaapandharikar.netlify.com)
 
 - 📫 How to reach me **atharvapandharikar5@gmail.com**
 
