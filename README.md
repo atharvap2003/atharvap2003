@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [atharvaapadharikar.netlify.com](atharvaapadharikar.netlify.com)
+- 👨‍💻 All of my projects are available at [atharvaapadharikar.netlify.com](atharvapadharikar.netlify.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
