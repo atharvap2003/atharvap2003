@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Pandharikar</h1>
 <h3 align="center">A passionate Fullstack Developer specialize in MERN technologies</h3>
 
-- 🔭 I’m currently working on **MERN, WebRTC, Socket.io**
+- 🔭 I’m currently working on **MERN, WebRTC, Socket.io.**
 
 - 🌱 I’m currently learning **MERN Stack**
 
