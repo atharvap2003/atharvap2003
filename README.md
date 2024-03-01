@@ -1,3 +1,6 @@
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/repository.svg?style=social)](https://github.com/yourusername/repository/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/repository.svg?style=social)](https://github.com/yourusername/repository/network)
+
 <h1 align="center">Hi 👋, I'm Atharva Pandharikar</h1>
 <h3 align="center">A passionate Fullstack Developer specialize in MERN technologies</h3>
 
