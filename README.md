@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/atharvap2003/repository.svg?style=social)](https://github.com/atharvap2003/repository/stargazers)
+![GitHub Views](https://komarev.com/ghpvc/?username=<username>)
 
 <h1 align="center">Hi 👋, I'm Atharva Pandharikar</h1>
 <h3 align="center">A passionate Fullstack Developer specialize in MERN technologies</h3>
