@@ -1,8 +1,10 @@
-![GitHub Views](https://komarev.com/ghpvc/?username=atharvap2003)
+
 
 <h1 align="center">Hi 👋, I'm Atharva Pandharikar</h1>
 <h3 align="center">A passionate Fullstack Developer specialize in MERN technologies</h3>
 
+
+![GitHub Views](https://komarev.com/ghpvc/?username=atharvap2003)
 
 - 🔭 I’m currently working on **MERN, WebRTC, Socket.io.**
 
