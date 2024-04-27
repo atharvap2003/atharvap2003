@@ -6,9 +6,9 @@
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=atharvap2003)
 
-- 🔭 I’m currently working on **MERN, WebRTC, Socket.io.**
+- 🔭 I’m currently working on **MERN Stack projects Socket.io.**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack, AWS**
 
 - 👨‍💻 All of my projects are available at [atharvaapadharikar.netlify.com](atharvapadharikar.netlify.com)
 
