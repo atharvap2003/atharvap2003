@@ -2,7 +2,7 @@
 🔭 Currently working on MERN Stack project <br><br>🌱 I’m currently learning Socket.io , OOPS , DSA<br><br>👨‍💻 All of my projects are available at https://atharvapandharikar.netlify.app/<br><br>💬 Ask me about react , nextjs , javascript , java , programming<br><br>📫 How to reach me atharvapandharikar5@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvapandhrikar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Apandharikar_01) 
 
 # 💻 Tech Stack:
