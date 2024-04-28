@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on MERN Stack project <br><br>🌱 I’m currently learning Socket.io , OOPS , DSA<br><br>👨‍💻 All of my projects are available at https://portfolio-tejas3500raut.netlify.app/<br><br>💬 Ask me about react , nextjs , javascript , java , programming<br><br>📫 How to reach me atharvapandharikar5@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/
+🔭 Currently working on MERN Stack project <br><br>🌱 I’m currently learning Socket.io , OOPS , DSA<br><br>👨‍💻 All of my projects are available at https://atharvapandharikar.netlify.app/<br><br>💬 Ask me about react , nextjs , javascript , java , programming<br><br>📫 How to reach me atharvapandharikar5@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/
 
 
 ## 🌐 Socials:
